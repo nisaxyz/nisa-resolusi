@@ -2,10 +2,11 @@ RENCANA KONTEN NISA
 -javascript
  *ES6
  *Framework javascript
-  ^Angular
-  ^React
+  ^vue
+  ^react
 -struktur data dasar
 -php
  ^laravel
 -interview
 -vlogs
+-phyton

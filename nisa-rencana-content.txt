@@ -4,6 +4,7 @@ RENCANA KONTEN NISA
  *Framework javascript
   ^vue
   ^react
+  ^angular
 -struktur data dasar
 -php
  ^laravel
